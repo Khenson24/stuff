@@ -1,4 +1,23 @@
-body {
+.h1{
+    color: red;
+}
+.h2{
+    color: orange;
+}
+.h3{
+    color: yellow;
+}
+.h4{
+    color: green;
+}
+.h5{
+    color: blue;
+}
+.h6{
+    color: violet;
+}
+
+/* body {
     background-color: lightblue;
   }
 h1{
@@ -23,4 +42,4 @@ h3{
 .square:hover {
     display: inline;
     font-size: 500%;
-}
+} */
